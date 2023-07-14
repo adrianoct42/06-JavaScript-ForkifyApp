@@ -6,4 +6,7 @@ Também é possível fazer o upload das próprias receitas, e isso ficará salvo
 
 Diversos conceitos foram estudados na realização desse projeto, como:
 
-> **Consumo de APIs** > **Modelo MVC** > **POO** > **AJAX**
+> **Consumo de APIs**
+> > **Modelo MVC**
+> > > **POO**
+> > > > **AJAX**
