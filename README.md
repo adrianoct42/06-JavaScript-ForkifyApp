@@ -7,6 +7,9 @@ Também é possível fazer o upload das próprias receitas, e isso ficará salvo
 Diversos conceitos foram estudados na realização desse projeto, como:
 
 > **Consumo de APIs**
-> > **Modelo MVC**
-> > > **POO**
-> > > > **AJAX**
+> **Modelo MVC**
+> **POO**
+> **AJAX**
+
+Você pode testar a aplicação utilizando o link abaixo. :)
+Netlify: https://chamon-forkify-js.netlify.app/
